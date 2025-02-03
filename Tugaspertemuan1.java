@@ -1,5 +1,5 @@
 // Jalankan kode program yang mencetak tulisan “Hallo Word Nama dan Nim Anda Saya Senang Belajar Java” 
-baik menggunakan terminal di PC Anda dengan perintah javac dan java serta menggunakan IDE Netbeans.//
+//baik menggunakan terminal di PC Anda dengan perintah javac dan java serta menggunakan IDE Netbeans.
 
 public class halo {
 
